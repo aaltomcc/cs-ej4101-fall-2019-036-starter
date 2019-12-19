@@ -1,6 +1,6 @@
 # About the Monorail in Wuppertal
 
-The Wuppertaler Schwebebahn (Wuppertal Suspension Railway) is a suspension railway in Wuppertal, Germany. Its full name is 
+[Wikipedia](https://en.wikipedia.org/wiki/Wuppertal_Schwebebahn): The Wuppertaler Schwebebahn (Wuppertal Suspension Railway) is a suspension railway in Wuppertal, Germany. Its full name is 
 Anlage einer elektrischen Hochbahn (Schwebebahn), System Eugen Langen. It is the oldest electric elevated railway with 
 hanging cars in the world and is a unique system.
 
@@ -14,8 +14,8 @@ monorail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wuppertal-10
 
 The Schwebebahn runs along a route of 13.3 kilometres (8.3 mi), at a height of about 12 metres (39 ft) above the River Wupper
 between Oberbarmen and Sonnborner Straße (10 kilometres or 6.2 miles) and about 8 metres (26 ft) above the valley road
-between Sonnborner Straße and Vohwinkel (3.3 kilometres or 2.1 miles).[5][6] At one point the railway crosses the A46
-motorway. The entire trip takes about 30 minutes.[6] The Schwebebahn operates within the VRR transport association and
+between Sonnborner Straße and Vohwinkel (3.3 kilometres or 2.1 miles). At one point the railway crosses the A46
+motorway. The entire trip takes about 30 minutes. The Schwebebahn operates within the VRR transport association and
 accepts tickets issued by the VRR companies.
 
 [Link to diary](diary-036.html)
