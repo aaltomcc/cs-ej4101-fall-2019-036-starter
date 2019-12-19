@@ -1,4 +1,4 @@
-# About the Monorail in Wuppertal
+# About the Suspension Monorail in Wuppertal
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wuppertal_Schwebebahn): The Wuppertaler Schwebebahn (Wuppertal Suspension Railway) is a suspension railway in Wuppertal, Germany. Its full name is 
 Anlage einer elektrischen Hochbahn (Schwebebahn), System Eugen Langen. It is the oldest electric elevated railway with 
