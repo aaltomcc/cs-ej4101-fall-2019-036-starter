@@ -21,7 +21,7 @@ related to each other. The full process is managed through a toolchain that cont
 * I think most benefit is achieved by removing human labor in the chain, i.e. through automation. Especially automated 
 testing and integration speeds up the development loop, since most of the bugs are (and should be) found before deployment. 
 Before setting up continuous delivery, the organization should be confident that the previous steps are good enough, so that 
-the testing section does not end up being outsourcesd to the user / customer.
+the testing part does not end up being outsourced to the user / customer.
 
 * I finally got a reason to learn how to use git and GitHub, as I previously had not a real need to do that. I did not know 
 how versatile the system was prior to the course, and it was also nice to learn how to use GitHub Pages as well. Also, it was 
