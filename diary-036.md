@@ -2,7 +2,7 @@
 
 I took this course because I wanted to know what is the buzz behind the word DevOps that has been around for a while, and how 
 does it affect software development. I have read that it speeds up software development and improves software quality, and I 
-wanted to learn how this is achieved. I also think that this couse provides an outline on how modern sotware processes are 
+wanted to learn how this is achieved. I also think that this course provides an outline on how modern sotware processes are 
 managed, as I have practical experience only on small-scale sotware development with locally managed version-control. I 
 wanted to learn about the different tools used in DevOps and how they relate to each other, as I think there are many sets of 
 tools which names themselves do not tell anything about their use.
@@ -21,7 +21,7 @@ learn.
 
 * CAMS stands for Culture, Automation, Measurement and Sharing, and the model describes the principles of the DevOps 
 movement. I think all these enable the organization to focus on developing things (and people) rather than fixing things. 
-Also, similar philosophy is applied in other industries (lean manufacturing, Kaizen).
+Also, similar philosophies are applied in other industries (lean manufacturing, Kaizen).
 
 * Removing the barrier between development and operations requires co-operation and common language between the teams but 
 brings significant benefits through time and money savings. The development should keep the operations in their mind when 
