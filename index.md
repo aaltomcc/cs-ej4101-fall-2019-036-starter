@@ -18,4 +18,4 @@ between Sonnborner Straße and Vohwinkel (3.3 kilometres or 2.1 miles). At one p
 motorway. The entire trip takes about 30 minutes. The Schwebebahn operates within the VRR transport association and
 accepts tickets issued by the VRR companies.
 
-[Link to diary](diary-036.html)
+[Link to diary](diary-036.md)
