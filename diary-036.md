@@ -1,11 +1,16 @@
 # Reasons for taking this course
 
 I took this course because I wanted to know what is the buzz behind the word DevOps that has been around for a while, and how 
-does it affect software development. I have read that it speeds up software development and improves quality, and I wanted to 
-learn how this is achieved, and how modern software processes are managed. Also, I wanted to get a full grip on the ideology 
-behind DevOps, as I was interested to think if such culture could be applied in other uses or industries as well. Moreover, I 
+does it affect software development. I have read that it speeds up software development and improves software quality, and I 
+wanted to learn how this is achieved. I also think that this couse provides an outline on how modern sotware processes are 
+managed, as I have practical experience only on small-scale sotware development with locally managed version-control. I 
 wanted to learn about the different tools used in DevOps and how they relate to each other, as I think there are many sets of 
 tools which names themselves do not tell anything about their use.
+
+In addition, I wanted to get a full grip on the ideology behind DevOps, as I was interested to think if such culture could be 
+applied in other uses or industries as well. I think many non-software organizations also apply agile methods to improve 
+their work, and I think it is nice to know what sort of methodologies different businesses utilize. There is always something 
+to learn about how things are arranged in different environments.
 
 I was expecting to learn the motivation and benefits behind the methodology, as I was suspicious if the benefits outweighed 
 the workload of setting up a toolchain, let alone the workload of adjusting the whole organization culture towards the DevOps 
