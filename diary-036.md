@@ -7,8 +7,10 @@ behind DevOps, as I was interested to think if such culture could be applied in 
 wanted to learn about the different tools used in DevOps and how they relate to each other, as I think there are many sets of 
 tools which names themselves do not tell anything about their use.
 
-I was expected to learn the motivation and benefits behind the methodology, as I was suspicious if the benefits outweighed 
-the workload of setting up a toolchain, let alone adjusting the whole organization culture towards the DevOps model.
+I was expecting to learn the motivation and benefits behind the methodology, as I was suspicious if the benefits outweighed 
+the workload of setting up a toolchain, let alone the workload of adjusting the whole organization culture towards the DevOps 
+model. Also, I wanted to do a hands-on exercise related to the subject, as I think a practical examples are the best way to 
+learn.
 
 # Things I learned
 
